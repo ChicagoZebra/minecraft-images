@@ -1,2 +1,2 @@
 # minecraft-images
-Images not available on other repositories, for a school project
+Minecraft item textures not available on other repositories. Built for a school project
